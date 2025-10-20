@@ -43,6 +43,13 @@ Ces résultats démontrent que **Random Forest** offre un meilleur équilibre en
 - **Jupyter Notebook**
 
 ---
+## Ouvrir dans Google Colab
+
+[![Ouvrir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hM8jqgeYr4qNzStI76BrCJhZ5q1DFqGl?usp=sharing)
+
+Je recommande de le visualiser sur google colab pour optenir une meilleure visualisation de l'évaluation des performances.
+
+---
 
 ## Auteur
 **Sophie Mercier**  
