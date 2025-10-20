@@ -43,10 +43,10 @@ These results suggest that **Random Forest** offers a more reliable balance betw
 - **Jupyter Notebook**
 
 ---
-## Ouvrir dans Google Colab
+## Open in Google Colab
 
-[![Ouvrir dans Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hM8jqgeYr4qNzStI76BrCJhZ5q1DFqGl?usp=sharing)
-Je recommande de le visualiser sur google colab pour optenir une meilleure visualisation de l'évaluation des performances.
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hM8jqgeYr4qNzStI76BrCJhZ5q1DFqGl?usp=sharing)  
+It is recommended to run the notebook in Google Colab for better visualization of performance results.
 
 ---
 ## Author
